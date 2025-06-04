@@ -161,3 +161,6 @@ cython_debug/
 
 # log file
 nohup.out
+
+.env
+bin
