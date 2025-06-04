@@ -164,3 +164,4 @@ nohup.out
 
 .env
 bin
+lib64
